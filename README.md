@@ -1,5 +1,5 @@
 👋 Hi, I’m @Henry-Januario, 22y
-🌱 I’m currently learning Web Dev Full Stack
+🌱 I’m currently learning Web Dev Full Stack in Resilia Educação.
 Let's code something together 😄
 
 
