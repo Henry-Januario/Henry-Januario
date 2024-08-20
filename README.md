@@ -1,7 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=259076&height=180&section=header&text=Henry Januario&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259076&size=23&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!;Eu+sou+o+Henry.;Capixaba,+22+anos.;Atualmente+estudo+Desenvolvimento+Web+Full+Stack+na+Resilia+Educação+:%29)](https://git.io/typing-svg)
-
 <br><br>
 <div align="center">
   <a href="https://github.com/Henry-Januario">
@@ -28,9 +24,6 @@
   <a href="https://www.linkedin.com/in/henry-januario/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br><br>
-
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Henry-Januario&theme=gotham&hide_border=true&area=true)
 
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=259076&height=120&section=footer"/>
